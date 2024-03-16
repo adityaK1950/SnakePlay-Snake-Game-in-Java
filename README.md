@@ -39,7 +39,7 @@ This Snake Game is a classic arcade-style game where the player controls a snake
 git clone [https://github.com/your-username/snake-game.git](https://github.com/adityaK1950/SnakePlay-Snake-Game-in-Java.git)
 ```
 
-***OR*** direct zip [file]()
+***OR*** direct zip [file](https://github.com/adityaK1950/SnakePlay-Snake-Game-in-Java)
 
 2. Compile the Java source files:
 ```
