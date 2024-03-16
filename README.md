@@ -10,7 +10,7 @@ A simple implementation of the classic Snake Game using Java Swing.
 ### 😵 GAME OVER!
 ![Snake Game Screenshot](https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft/assets/156563981/e63f3597-bdd5-439e-a933-95aad2e7fec9)
 
-### v GAME DEMO
+### ▶️ GAME DEMO
 ![Snake Game Screenshot](https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft/assets/156563981/5bf08c60-daac-4281-8e2d-f6e0214a5477)
 
 
