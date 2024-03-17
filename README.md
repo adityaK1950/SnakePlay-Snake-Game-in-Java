@@ -1,4 +1,4 @@
-# SnakePlay: Snake Game in JAVA 🐍
+# SnakeyPlay: Snake Game in JAVA 🐍
 
 A simple implementation of the classic Snake Game using Java Swing.
 
