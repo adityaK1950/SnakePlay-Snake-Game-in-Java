@@ -19,7 +19,7 @@ A simple implementation of the classic Snake Game using Java Swing.
 
 This Snake Game is a classic arcade-style game where the player controls a snake that moves around the screen, eating food to grow longer. The objective is to avoid colliding with the walls or the snake's own body. As the snake eats more food, it grows longer, making the game more challenging.
 
-## Features ✨
+## Features <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture>
 
 - Simple and intuitive controls using arrow keys.
 - Dynamic snake movement and growth.
