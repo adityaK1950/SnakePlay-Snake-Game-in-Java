@@ -2,6 +2,7 @@
 
 A simple implementation of the classic Snake Game using Java Swing.
 
+
 ## Screenshots 🖼️
 
 ### 🏡 Home 
