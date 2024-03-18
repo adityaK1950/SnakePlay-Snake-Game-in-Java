@@ -1,4 +1,4 @@
-# SnakeyPlay: Snake Game in JAVA 🐍
+# SnakeyPlay: Snake Game in JAVA <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"></picture>  🐍
 
 A simple implementation of the classic Snake Game using Java Swing.
 
