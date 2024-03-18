@@ -8,7 +8,7 @@ A simple implementation of the classic Snake Game using Java Swing.
 ### 🏡 Home 
 ![Snake Game Screenshot](https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft/assets/156563981/49dfdaf5-457f-46aa-914d-4dd8662f508e)
 
-### 😵 GAME OVER!
+### 😵 GAME OVER! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/274c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/274c/512.gif" alt="❌" width="32" height="32"></picture>
 ![Snake Game Screenshot](https://github.com/adityaK1950/Microsoft-Paint-Clone-PaintCraft/assets/156563981/e63f3597-bdd5-439e-a933-95aad2e7fec9)
 
 ### ▶️ GAME DEMO
